@@ -1,5 +1,5 @@
 # Hello! i am [bystg](https://github.com/bystg)
- ![Imparator](https://github-readme-stats.vercel.app/api?username=bystg&show_icons=true&theme=radical)
+ ![STG](https://github-readme-stats.vercel.app/api?username=bystg&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bystg&theme=tokyonight)
 
 
