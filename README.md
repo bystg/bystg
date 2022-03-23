@@ -1,7 +1,6 @@
 # Hello! i am [bystg](https://github.com/bystg)
- ![STG](https://github-readme-stats.vercel.app/api?username=bystg&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bystg&theme=tokyonight)
-
+ ![STG](https://github-readme-stats.vercel.app/api?username=bystg&show_icons=true&theme=radical)
 
 
   <a href="https://github.com/bystg"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
